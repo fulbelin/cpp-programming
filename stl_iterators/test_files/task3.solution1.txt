@@ -1,0 +1,12 @@
+seq1
+AGA 1
+CGG 1
+GAC 1
+GGA 1
+
+seq2
+AGG 1
+
+seq3
+GGG 2
+

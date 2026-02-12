@@ -1,0 +1,6 @@
+seq2
+AGG 1
+
+seq3
+GGG 2
+

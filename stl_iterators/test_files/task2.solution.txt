@@ -1,0 +1,14 @@
+V1 Mean: 11
+V1 Sample standard deviation: 3.16
+V1 Top 5 elements: 3.91, 3.81, 3.7, 3.46, 2.81
+V2 Mean: 12.9
+V2 Sample standard deviation: 6.79
+V2 Top 8 elements: 4.64, 4.39, 3.81, 3.81, 3.81, 3.58, 2.81, 2
+
+Comparing V1 and V2...
+Unscaled t-statistic: -0.573
+Comparing log2 scaled V1 and V2...
+Scaled t-statistic: -0.169
+Total degrees of freedom: 11
+
+Sorted vector: 19.5, 10.4, 3.81, 7.4, 11.2
