@@ -1,11 +1,50 @@
-*.o
-*~
-.vscode/
-.idea/
+# Build directories
 build/
+cmake-build-*/
+out/
+dist/
+
+# CMake generated files
 CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
+compile_commands.json
 Makefile
-a.out
+
+# Compiled binaries
+*.o
+*.obj
+*.lo
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.exe
+*.out
+
+# Editor / IDE files
+
+# VSCode
+.vscode/
+
+# Visual Studio
 .vs/
+*.sln
+*.vcxproj*
+*.VC.db
+*.VC.opendb
+
+# CLion / JetBrains
+.idea/
+*.iml
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*~
+*.swp
+*.tmp
